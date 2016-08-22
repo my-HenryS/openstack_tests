@@ -1,0 +1,6 @@
+2016-08-22 11:16:26,940 - logging_test.py:17 - test - first info message
+2016-08-22 11:16:26,941 - logging_test.py:18 - test - second info message
+2016-08-22 11:16:29,343 - logging_test.py:17 - test - first info message
+2016-08-22 11:16:29,343 - logging_test.py:18 - test - second info message
+2016-08-22 11:17:40,847 - logging_test.py:17 - [INFO]  - test - first info message
+2016-08-22 11:17:40,847 - logging_test.py:18 - [INFO]  - test - second info message
