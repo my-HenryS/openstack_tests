@@ -1,7 +1,7 @@
-tests/*
-include/*
-lib/*
-local/*
-bin/*
+/tests
+/include
+/lib
+/local
+/bin
 pip-selfcheck.json
 
